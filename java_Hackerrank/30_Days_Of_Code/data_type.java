@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class solution {
+public class data_type {
 	
     public static void main(String[] args) {
         int i = 4;
