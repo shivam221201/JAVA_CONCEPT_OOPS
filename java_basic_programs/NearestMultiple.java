@@ -19,7 +19,7 @@ public class NearestMultiple{
 
         temp = num%div;
         
-        if(temp>=(div/2))
+        if(temp>(div/2))
             num+= div-temp;
         else
             num = num - temp;

@@ -7,7 +7,7 @@ for(int i=1;i<10;i++)
 try
 {
 Thread.sleep(10);
-System.ouy=t.println(i);
+System.out.println(i);
 }
 catch(InterruptedException e)
 {
